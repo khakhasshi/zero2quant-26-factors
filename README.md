@@ -14,7 +14,7 @@
   <img src="assets/wechat-group.png" alt="Zero2Quant量化交易微信群二维码" width="360">
 </a>
 
-二维码图片标注有效期至 **9 月 24 日**。若失效，可在本仓库提交 Issue 请求更新。
+二维码图片标注有效期至 **9 月 24 日**。若二维码或邀请链接过期，请发送邮件至 **[contact@jiangjingzhe.com](mailto:contact@jiangjingzhe.com)** 联系我获取最新入群方式，也可在本仓库提交 Issue 请求更新。
 
 ## 文档内容
 
